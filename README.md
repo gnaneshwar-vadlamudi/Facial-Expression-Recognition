@@ -4,7 +4,7 @@ This repository contains code for real-time face expression recognition using th
 
 ## Sample Image
 
-<img src="https://github.com/Gnaneshwar03/Facial-Expression-Recognition/assets/107243397/b387b218-c9c2-4206-9bc2-86efb8a12859" width="850" height="600">
+<img src="https://github.com/gnaneshwar-vadlamudi/Facial-Expression-Recognition/assets/107243397/b387b218-c9c2-4206-9bc2-86efb8a12859" width="850" height="600">
 
 ## Prerequisites
 
@@ -29,7 +29,7 @@ To use the face expression recognition system:
 1. Clone this repository to your local machine.
 
 ```shell
-git clone https://github.com/Gnaneshwar03/Face-Expression-Recognition.git
+git clone https://github.com/gnaneshwar-vadlamudi/Face-Expression-Recognition.git
 ```
 
 2. Change to the project directory.
